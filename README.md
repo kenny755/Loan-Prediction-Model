@@ -51,7 +51,7 @@ The datasets contain various features related to loan applicants, including:
 
 ## Project Implementation
 
-The `IBM project.ipynb` Jupyter Notebook details the steps taken in this project:
+The `IBM project.ipynb`[https://github.com/kenny755/Loan-Prediction-Model/blob/main/Loan%20Prediction.ipynb] Jupyter Notebook details the steps taken in this project:
 
 ### 4.1. Data Loading and Exploration
 
